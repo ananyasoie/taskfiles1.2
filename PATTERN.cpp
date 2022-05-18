@@ -3,7 +3,9 @@ using namespace std;
 
 //------------------video refernce---------------------------
 
-/*int main(){
+int main(){
+cout<<"Pattern code"<<endl;
+cout<<"First Basic code"<<endl;
     int row,col,n;
     cout<<"enter the number: ";
     cin>>n;
@@ -15,7 +17,7 @@ using namespace std;
         cout<<endl;
     }
     return 0;
-}*/
+}
 
 /*int main(){
     int row,col,n;
@@ -24,7 +26,7 @@ using namespace std;
 
     for (row=1;row<=n;row++){
         for(col=1;col<=row;col++){
-            cout<<"*";  //<<" ";  with space and no space
+            cout<<"*";  //<<" ";  with space & no space
         }
         cout<<endl;
     }
