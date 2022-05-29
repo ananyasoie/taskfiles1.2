@@ -2,6 +2,6 @@
 using namespace std;
     
 int main(){
-    cout<<"A+B=MORNING";
+    cout<<"A+B=EVENING";
     return 0;
 }
